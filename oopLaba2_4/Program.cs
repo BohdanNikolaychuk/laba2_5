@@ -53,7 +53,7 @@ namespace oopLaba2_4
 
             }
             Console.WriteLine(s);
-
+            Console.WriteLine(s); 
         }
 
     }
